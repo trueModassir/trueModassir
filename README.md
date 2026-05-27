@@ -1,4 +1,4 @@
-# Hi 👋, I'm Modassir
+# Hi, I'm Modassir
 
 💻 Aspiring Software Developer  
 🌱 Learning Java, SQL, and Data Analytics  
@@ -8,10 +8,11 @@
 ## 🛠 Skills
 - Java
 - SQL
-- Excel
+- MS Office
 - Git & GitHub
 
 ## 🎯 Goals
 - Become a strong software developer
 - Build real-world projects
 - Contribute to open source
+- And Learning continues...
