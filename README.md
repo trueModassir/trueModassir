@@ -1,4 +1,4 @@
-# Hi 👋, I'm Modassir
+# Hi, I'm Modassir
 
 💻 Aspiring Software Developer  
 🌱 Learning Java, SQL, and Data Analytics  
